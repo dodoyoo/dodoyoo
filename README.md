@@ -45,7 +45,9 @@
 <!-- <hr/> -->
  
 <h4>👾 Git Stats</h4><br/> 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asherkuu&layout=compact)]() 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asherkuu&layout=compact)]
+
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asherkuu&show_icons=true&theme=radical)&nbsp;&nbsp; 
 </div>
 
