@@ -15,7 +15,7 @@
  <h4>😗  I’m currently working with ...</h4><br/>
 
  <p>
-   <img alt="NodeJS" src="https://img.shields.io/badge/nodejs-ffffff?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />&nbsp;&nbsp;
+   <img alt="NodeJS" src="https://img.shields.io/badge/nodejs-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=ffffff" />&nbsp;&nbsp;
    <img alt="Javascript" src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
    <img alt="Typescript" src="https://img.shields.io/badge/TS-3073C0?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
  </p>
