@@ -15,9 +15,10 @@
  <h4>😗  I’m currently working with ...</h4><br/>
 
  <p>
-   <img alt="NodeJS" src="https://img.shields.io/badge/nodejs-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=ffffff" />&nbsp;&nbsp;
+   <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></a>
    <img alt="Javascript" src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
    <img alt="Typescript" src="https://img.shields.io/badge/TS-3073C0?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
+   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
  </p>
  
  <p>
@@ -45,10 +46,10 @@
 <!-- <hr/> -->
  
 <h4>👾 Git Stats</h4><br/> 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dodoyoo&layout=compact)
-
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dodoyoo&show_icons=true&theme=radical)&nbsp;&nbsp; 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dodoyoo&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodoyoo&layout=compact&theme=radical" alt="Top Langs" width="400"/>
+</p>
 </div>
 
 <!--
