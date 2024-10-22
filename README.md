@@ -47,7 +47,6 @@
  
 <h4>👾 Git Stats</h4><br/> 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dodoyoo&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodoyoo&layout=compact&theme=radical" alt="Top Langs" width="400"/>
 </p>
 </div>
